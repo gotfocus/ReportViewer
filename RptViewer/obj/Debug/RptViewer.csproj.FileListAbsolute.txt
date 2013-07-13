@@ -1,0 +1,5 @@
+C:\Users\knickerson\documents\visual studio 2010\Projects\RptViewer\RptViewer\bin\RptViewer.dll
+C:\Users\knickerson\documents\visual studio 2010\Projects\RptViewer\RptViewer\bin\RptViewer.pdb
+C:\Users\knickerson\documents\visual studio 2010\Projects\RptViewer\RptViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\knickerson\documents\visual studio 2010\Projects\RptViewer\RptViewer\obj\Debug\RptViewer.dll
+C:\Users\knickerson\documents\visual studio 2010\Projects\RptViewer\RptViewer\obj\Debug\RptViewer.pdb
